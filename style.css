@@ -1,0 +1,22 @@
+body {
+    background-image: url('https://wallpapers.com/images/high/aesthetic-mountain-n76a58wqhakbjjeo.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.card-container{ 
+    padding-top: 5%;
+    
+}
+.card-body{
+    padding:5%;
+    background:linear-gradient(to top, #8c42d7 4%, #e4a353 96%);
+    border: none;
+    box-shadow: 8px 10px #18131d;
+}
+.card-body .header{
+    text-align: center;
+    font-weight:bold;
+    text-transform: uppercase;
+}
